@@ -1,4 +1,4 @@
-# variable argumenta *args is a tuple refrence
+# variable length or unlimited  arguments *args is a tuple reference
 # variable arguments **krwgs is dictionary reference
 
 def great_people(*people: str):
