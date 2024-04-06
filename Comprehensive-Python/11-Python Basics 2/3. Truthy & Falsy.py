@@ -1,4 +1,4 @@
-# that is return false as boollen values
+# that is return false as boolean values
 
 empty_list = []
 empty_tuple = ()
